@@ -168,6 +168,10 @@ nav .show-links .close {
   display: block;
 }
 
+.nav-links li a {
+  text-transform: uppercase;
+}
+
 /* SECTION: HERO */
 .hero {
   position: relative;
