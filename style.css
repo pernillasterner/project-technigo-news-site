@@ -116,6 +116,10 @@ li {
   padding-left: 3rem;
 }
 
+.nav-links li a {
+  text-transform: uppercase;
+}
+
 .burger-menu {
   display: none;
   cursor: pointer;
@@ -166,10 +170,6 @@ nav .close {
 
 nav .show-links .close {
   display: block;
-}
-
-.nav-links li a {
-  text-transform: uppercase;
 }
 
 /* SECTION: HERO */
